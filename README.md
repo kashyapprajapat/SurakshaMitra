@@ -8,6 +8,9 @@ SurakshaMitra 🔐 is your security companion for managing passwords 🔑 and va
 - Generate strong passwords ♨️
 - Validate email addresses 📧
 
+![screencapture-pepy-tech-projects-surakshamitra-2025-01-28-19_43_04](https://github.com/user-attachments/assets/0e30c1f9-d428-432c-813f-b03e2b75418f)
+
+
 ## Installation
 
 Install SurakshaMitra using pip:

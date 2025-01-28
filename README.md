@@ -85,4 +85,5 @@ For any issues or questions, feel free to raise an issue in the GitHub repositor
 - **Password Generator**: Shows how to use the `generate_password()` function to create a strong password.
 - **Email Validator**: Guides the user to use `validate_email()` to check if an email address is formatted correctly.
 
-You can replace the **GitHub repository** link with your actual repository URL if needed.
+### Total downloads 
+[click to see](https://pepy.tech/projects/surakshamitra?timeRange=threeMonths&category=version&includeCIDownloads=true&granularity=daily&viewType=table&versions=1.1.0%2C1.0.0)

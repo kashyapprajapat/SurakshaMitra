@@ -8,6 +8,7 @@ SurakshaMitra 🔐 is your security companion for managing passwords 🔑 and va
 - Generate strong passwords ♨️
 - Validate email addresses 📧
 
+## Total Downloaders
 ![screencapture-pepy-tech-projects-surakshamitra-2025-01-28-19_43_04](https://github.com/user-attachments/assets/0e30c1f9-d428-432c-813f-b03e2b75418f)
 
 
@@ -90,3 +91,6 @@ For any issues or questions, feel free to raise an issue in the GitHub repositor
 
 ### Total downloads 
 [click to see](https://pepy.tech/projects/surakshamitra?timeRange=threeMonths&category=version&includeCIDownloads=true&granularity=daily&viewType=table&versions=1.1.0%2C1.0.0)
+
+![WhatsApp Image 2025-01-28 at 3 54 47 PM](https://github.com/user-attachments/assets/6b31789f-ce8b-48a7-92b1-b90ebaf46906)
+

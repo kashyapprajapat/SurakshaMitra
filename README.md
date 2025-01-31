@@ -1,12 +1,15 @@
 # SurakshaMitra
 
-SurakshaMitra 🔐 is your security companion for managing passwords 🔑 and validating email 📨 addresses.
+SurakshaMitra 🔐 is your security companion for managing passwords 🔑 and validating email 📨 addresses as well as file uploader 🗃️ and phone 📞 validatore. 
 
 ## Features ☕
 
 - Check password strength 💪🏻
 - Generate strong passwords ♨️
 - Validate email addresses 📧
+- Validate Phone Numeber 📞 
+- Validate valid file upload 🗃️
+
 
 ## Total Downloaders
 ![screencapture-pepy-tech-projects-surakshamitra-2025-01-28-19_43_04](https://github.com/user-attachments/assets/0e30c1f9-d428-432c-813f-b03e2b75418f)
@@ -125,5 +128,10 @@ For any issues or questions, feel free to raise an issue in the GitHub repositor
 - **Password Strength**: This demonstrates how to use the `check_strength()` function to evaluate the strength of a password.
 - **Password Generator**: Shows how to use the `generate_password()` function to create a strong password.
 - **Email Validator**: Guides the user to use `validate_email()` to check if an email address is formatted correctly.
+- **Phone Number Validator**: Explains how the `validate_phone_number()` function checks if a phone number is valid for all countries.
+- **File Upload Validator**: Demonstrates how `validate_file_upload()` ensures that uploaded files meet specific size and type restrictions.
 
-You can replace the **GitHub repository** link with your actual repository URL if needed.
+## Contribution 🤝
+We welcome contributions! Feel free to submit a [pull request](https://github.com/kashyapprajapat/SurakshaMitra/pulls) or open an [issue](https://github.com/kashyapprajapat/SurakshaMitra/issues) in our [GitHub repository](https://github.com/kashyapprajapat/SurakshaMitra).
+
+

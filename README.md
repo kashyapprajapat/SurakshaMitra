@@ -12,7 +12,8 @@ SurakshaMitra 🔐 is your security companion for managing passwords 🔑 and va
 
 
 ## Total Downloaders
-![screencapture-pepy-tech-projects-surakshaMitra-2025-02-01-19_36_38](https://github.com/user-attachments/assets/90e8d731-7688-43cb-b55b-439e1b8154f5)
+![screencapture-pepy-tech-projects-SurakshaMitra-2025-02-08-18_39_02](https://github.com/user-attachments/assets/2b99c779-1a80-4b94-b989-57422ae9ee31)
+
 
 
 

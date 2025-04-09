@@ -12,7 +12,7 @@ SurakshaMitra 🔐 is your security companion for managing passwords 🔑 and va
 
 
 ## Total Downloaders
-![screencapture-pepy-tech-projects-surakshamitra-2025-01-28-19_43_04](./surakshmitra_3.png)
+![screencapture-pepy-tech-projects-surakshamitra-2025-01-28-19_43_04](https://github.com/user-attachments/assets/0e30c1f9-d428-432c-813f-b03e2b75418f)
 
 
 ## Installation
@@ -134,4 +134,5 @@ For any issues or questions, feel free to raise an issue in the GitHub repositor
 ## Contribution 🤝
 We welcome contributions! Feel free to submit a [pull request](https://github.com/kashyapprajapat/SurakshaMitra/pulls) or open an [issue](https://github.com/kashyapprajapat/SurakshaMitra/issues) in our [GitHub repository](https://github.com/kashyapprajapat/SurakshaMitra).
 
+![WhatsApp Image 2025-02-01 at 7 39 55 PM](https://github.com/user-attachments/assets/c10adaa9-aaae-4ce9-a543-4bdaf3ea131a)
 
